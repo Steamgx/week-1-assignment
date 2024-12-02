@@ -18,4 +18,4 @@ To run the Net Salary Calculator, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/net-salary-calculator.git
+***At this point you clone to the required repository.
